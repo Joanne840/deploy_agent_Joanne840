@@ -4,7 +4,7 @@ This project delivers an automated shell scripting tool (`deploy_agent.sh`) desi
 
 
 ## Video Walkthrough link
-
+https://drive.google.com/file/d/1RnV17aVgBJyu57jIXKRJkTO_s1ui_WE9/view?usp=sharing
 
 
 ## Repository File Structure
